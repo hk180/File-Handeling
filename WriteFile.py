@@ -20,7 +20,7 @@ Append and read    a+               reading and writing  end of file          Cr
                                                                               New data being written will be inserted at end after existing data
 '''
 
-#opens test.txt
+#opens writetest.txt
 
 #write() : Inserts the string str1 in a single line in the text file.
 #writelines() : For a list of string elements, each string is inserted in the text file.
